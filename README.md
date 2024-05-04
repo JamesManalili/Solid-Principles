@@ -51,6 +51,8 @@
             }
           }
 # UML Class diagram
+![Blank diagram](https://github.com/JamesManalili/Solid-Principles/assets/142465145/aaa40952-6d28-49b0-902a-9bb23b09149e)
 
 
 # Output
+![image](https://github.com/JamesManalili/Solid-Principles/assets/142465145/769fe55d-3d28-44f3-a63e-7090b87807ac)
