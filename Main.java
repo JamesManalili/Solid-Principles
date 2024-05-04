@@ -9,7 +9,6 @@ public class Main {
         Invoice invoice = new InvoiceProcess();
         Notification notification = new NotificationProcess();
 
-        // These methods might not be needed for all orders
         invoice.generateInvoice("order_123.pdf");
         notification.sendEmailNotification("johndoe@example.com");
     }
